@@ -1,0 +1,3 @@
+RSA pozwala na tworzenie zaszyfrowanych informacji za pomocą dwóch kluczy. Publiczny klucz używany jest do zaszyfrowania wiadomości i jest on dostępny dla wszystkich którzy chcą zaszyfrować wiadomość. Natomiast klucz prywatny dostępny jest tylko dla osoby która ma odczytać zaszyfrowaną informację i nie jest on publikowany.
+
+Klucze generowane są przy wykorzystaniu dwóch czterocyfrowych liczb pierwszych.

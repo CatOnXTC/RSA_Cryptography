@@ -1,0 +1,7 @@
+Wciskając "Informacje" pojawią się dodatkowe informacje na temat działania algorytmu.
+
+W polu tekstowym można wpisać nazwę jaką mają przyjąć tworzone pliki.
+
+Przycisk "Zaszyfruj" pozwala wpierw wybrać plik który ma zostać zaszyfrowany, a następnie publiczny klucz za pomocą którego ma zostać dokonana szyfracja. Generowany jest następnie zaszyfrowany plik.
+Przycisk "Odszyfruj" pozwala wpierw wybrać plik który ma zostać odszyfrowany, a następnie prywatny klucz za pomocą którego ma zostać dokonana deszyfracja. Generowany jest następnie odszyfrowany plik.
+Przycisk "Wygeneruj klucze" generuje dwa pliki. Jeden zawiera klucz publiczny, a drugi klucz prywatny.
